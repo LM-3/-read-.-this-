@@ -1,4 +1,4 @@
-Welcome to this group for MIT CADR enthusiasts.
+# Welcome to this group for MIT CADR enthusiasts.
 
 Everyone can join.  Please [open an
 issue](https://github.com/LM-3/-read-.-this-/issues/new) in this
@@ -13,3 +13,9 @@ issue](https://github.com/LM-3/-read-.-this-/issues/new) to start a
 new discussion.
 
 There is a [wiki](https://github.com/LM-3/-read-.-this-/wiki).
+
+Current build status:
+
+ * [usim](https://github.com/LM-3/usim) [![Build Status](https://travis-ci.org/LM-3/usim.svg?branch=master)](https://travis-ci.org/LM-3/usim)
+ * [doc](https://github.com/LM-3/doc) [![Build Status](https://travis-ci.org/LM-3/doc.svg?branch=master)](https://travis-ci.org/LM-3/doc)
+ * [chaos](https://github.com/LM-3/chaos) [![Build Status](https://travis-ci.org/LM-3/chaos.svg?branch=master)](https://travis-ci.org/LM-3/chaos)
