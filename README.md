@@ -1,5 +1,9 @@
 # Welcome to this group for MIT CADR enthusiasts.
 
+   ***********************************
+*** THIS PROJECT IS MOVING OFF GITHUB ***
+   ***********************************
+
 Everyone can join.  Please [open an
 issue](https://github.com/LM-3/-read-.-this-/issues/new) in this
 repository to ask for a invitation.
