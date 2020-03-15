@@ -1,7 +1,7 @@
 ```
 		  THIS PROJECT HAS MOVED OFF GITHUB
 			     PLEASE VISIT
-		       HTTPS://TUMBLEWEED.NU/R/
+		       https://tumbleweed.nu/r/
 		       
       RESTRAIN SOCIAL DECAY–HELP GET PROGRAMMERS SHARING AGAIN.
 ```
