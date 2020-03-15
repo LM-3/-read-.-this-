@@ -2,6 +2,8 @@
 		  THIS PROJECT HAS MOVED OFF GITHUB
 			     PLEASE VISIT
 		       HTTPS://TUMBLEWEED.NU/R/
+		       
+      RESTRAIN SOCIAL DECAY–HELP GET PROGRAMMERS SHARING AGAIN.
 ```
 
 Current MIT CADR Lisp Machine related projects:
